@@ -1,4 +1,4 @@
-# Rice Datathon 2023
+# Rice Datathon 2024
 This group project looked to determine whether an MLB team’s travel schedule and fatigue had any effect on a team’s in game performance. Initially through our exploratory data analysis, we found that there was significant evidence for the prevelance of home-field advantage, and, through a Granger Causality Test, we found that there was no evidence to support causality between the distance travelled by a team, and their offensive and defensive on-base percentage(OBA).
 
 We looked to get a baseline understanding of a team’s ability by developing an ELO ranking system derived from 538’s NFL ELO system, accounting for margin of victory and pitching form. Additionally, two scalars which controlled the extent of ELO change were found by determining what the scalars were when the AUC-ROC score was highest.
